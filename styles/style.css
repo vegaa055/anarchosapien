@@ -68,6 +68,12 @@ body {
   border-radius: 8px;
 }
 
+.featured-article h2 {
+  font-family: "Pirata One", cursive;
+  font-size: 4rem;
+  margin-bottom: 1rem;
+}
+
 .article-list {
   flex: 1;
   background-color: #1a1a1a;
